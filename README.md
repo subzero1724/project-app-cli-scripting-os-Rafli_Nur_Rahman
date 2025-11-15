@@ -11,14 +11,13 @@ Pengguna dapat memasukkan nama pembeli, memilih jenis sepatu, menentukan jumlah,
 ## Cara Menjalankan
 ### 1. Clone repository
 ```bash
-
+git clone https://github.com/subzero1724/project-app-cli-scripting-os-Rafli_Nur_Rahman.git
 ```
 ### 2. Masuk Folder Project
 ```bash
 cd project-app-cli-scripting-os-Rafli_Nur_Rahman
 ```
 ### 3. Berikan Hak Eksekusi & Jalankan
-
 ```bash
 chmod +x app.sh
 ./app.sh
